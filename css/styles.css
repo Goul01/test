@@ -1,1 +1,10 @@
-/* Feuille de styles CSS */
+table {
+    border-collapse:collapse;
+   
+}
+th,td {
+    border: 1px; color: black;
+}
+table{
+    border: 3px solid black;
+}
