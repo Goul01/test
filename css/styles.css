@@ -1,10 +1,85 @@
+
+
+body {
+    background-color :#eeee ;
+
+}
+.rectangle {
+    background-color: #eeee;
+    margin-left: auto ;
+    margin-right:auto ;
+    border-radius: 3px ;
+}
+hr {
+    margin-left: 32px ;
+    margin-right: 35px ;
+    background: #eeee
+}
 table {
-    border-collapse:collapse;
-   
+    border : 3px solid black;
+    margin : 35px
 }
-th,td {
-    border: 1px; color: black;
+td {
+    border : 2px solid black;
+    border-collapse : collapse
 }
-table{
+th {
+    border : 2px solid black;
+}
+p {
+    margin-left: 35px;
+}
+
+textarea {
+    margin: 35px
+}
+
+h1 h2, h3 {
+    margin: 35px
+}
+
+.marge {
+    margin: 35px
+}
+.lego {
+    font-style:italic;
+    color: rgb(0, 123, 255)
+}
+
+html {
+    font-family:sans-serif;
+    scroll-behavior:smooth
+}
+a {
+    color : #007bff;
+    text-decoration: none;
+    font-style : Bold;
+}
+a:hover{
+    text-decoration-line: underline;
+}
+
+.petit-texte {
+    font-size: 12px;
+    margin-right : 35px;
+    text-align : end
+}
+
+table, tbody, thead {
+    border-collapse : collapse ;
+    text-align:center;
+}
+
+.gros-trait {
     border: 3px solid black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.milieu {
+    text-align:center
 }
