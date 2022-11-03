@@ -67,7 +67,7 @@ a:hover{
 
 table, tbody, thead {
     border-collapse : collapse ;
-    text-align:center;
+    text-align: right ;
 }
 
 .gros-trait {
